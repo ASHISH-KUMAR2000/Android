@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="start_message">Have Some Peace !!</string>
+    <string name="start_text">What are you grateful for today.</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="or">or</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="username">User Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="title">Title</string>
+    <string name="post_description">Your Thoughts..</string>
+    <string name="menu_title">Add Thoughts</string>
+    <string name="action_signout">Signout</string>
+    <string name="no_thought_text">Write a journal by clicking the \"+\" icon above.</string>
+    <string name="journal_title">Title</string>
+    <string name="journal_thought">Thoughts....</string>
+    <string name="date_created">Date Created</string>
+    <string name="dummy">Connecting</string>
+    <string name="save">SAVE</string>
+</resources>
